@@ -33,6 +33,12 @@ main{
     height: 320px;
 }
 
+section.shadow{
+    box-shadow: -8px 20px 51px -20px rgba(0,0,0,0.68);
+-webkit-box-shadow: -8px 20px 51px -20px rgba(0,0,0,0.68);
+-moz-box-shadow: -8px 20px 51px -20px rgba(0,0,0,0.68);
+}
+
 section.Cabecera{
     background-image: url(/images/bg-pattern-card.svg);
     height: 120px;
