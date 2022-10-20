@@ -34,9 +34,9 @@ main{
 }
 
 section.shadow{
-    box-shadow: -8px 20px 51px -20px rgba(0,0,0,0.68);
--webkit-box-shadow: -8px 20px 51px -20px rgba(0,0,0,0.68);
--moz-box-shadow: -8px 20px 51px -20px rgba(0,0,0,0.68);
+    box-shadow: 2px 22px 54px -22px rgba(0,0,0,0.75);
+-webkit-box-shadow: 2px 22px 54px -22px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 22px 54px -22px rgba(0,0,0,0.75);
 }
 
 section.Cabecera{
